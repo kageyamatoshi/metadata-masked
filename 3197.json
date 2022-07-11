@@ -1,9 +1,9 @@
-{
-    "name": "Masked Ape #3197",
+{"name": "Masked Ape #3197",
     "symbol": "MAD",
     "description": "Thousands of Masked Apes uniquely generated to survive in times of extinction.",
+    "seller_fee_basis_points": 999,
     "image": "https://nftstorage.link/ipfs/QmcTXpZdSjE9Mh3egCAZsRENGjo2yayGQRKvgdTuGLJZGk/3197.png",
-    "sellerFeeBasisPoints": 999,
+    "external_url": "",
     "collection": {
         "name": "Masked Ape DAO",
         "family": "LaunchMyNFT"
@@ -47,12 +47,12 @@
                 "type": "image/png"
             }
         ],
-        "category": "image"
-    },
-    "creators": [
-        {
-            "address": "7t4x8sPcNPzap7EvSY8gLZ9WEq4PXq9AvvTyWsyvtYhc",
-            "share": 100
-        }
-    ]
+        "category": "image",
+        "creators": [
+            {
+                "address": "7t4x8sPcNPzap7EvSY8gLZ9WEq4PXq9AvvTyWsyvtYhc",
+                "share": 100
+            }
+        ]
+    }
 }
