@@ -1,0 +1,58 @@
+{
+    "name": "Masked Ape #3197",
+    "symbol": "MAD",
+    "description": "Thousands of Masked Apes uniquely generated to survive in times of extinction.",
+    "image": "https://nftstorage.link/ipfs/QmcTXpZdSjE9Mh3egCAZsRENGjo2yayGQRKvgdTuGLJZGk/3197.png",
+    "sellerFeeBasisPoints": 999,
+    "collection": {
+        "name": "Masked Ape DAO",
+        "family": "LaunchMyNFT"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Dead-Baby Mask"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Empty"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Bowl"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarettes"
+        },
+        {
+            "trait_type": "Rarity Rank",
+            "value": 718,
+            "display_type": "number",
+            "max_value": 4444
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://nftstorage.link/ipfs/QmcTXpZdSjE9Mh3egCAZsRENGjo2yayGQRKvgdTuGLJZGk/3197.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    },
+    "creators": [
+        {
+            "address": "7t4x8sPcNPzap7EvSY8gLZ9WEq4PXq9AvvTyWsyvtYhc",
+            "share": 100
+        }
+    ]
+}
